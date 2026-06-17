@@ -262,4 +262,4 @@ Developed with assistance from [Claude](https://claude.ai) (Anthropic).
 
 ---
 
-**BiblioGram** — Your Telegram library on Kobo, without intermediaries.
+**BiblioGram** — Your Telegram library on Kobo,kindle without intermediaries.
