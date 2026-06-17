@@ -136,7 +136,7 @@ Book description or synopsis.
 ### Example
 
 ```
-The Slum
+O Cortiço
 Aluísio Azevedo
 
 A naturalist novel portraying life in a tenement
